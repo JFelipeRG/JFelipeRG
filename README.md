@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Felipe Ramirez</h1>
 <h3 align="center">Desarrollador FrontEnd Junior</h3>
 
-- 🔭 Actualmente trabajando en [Drunky Ducks](https://landing.drunkyducks.com/){:target="_blank"}
+- 🔭 Actualmente trabajando en [Drunky Ducks](https://landing.drunkyducks.com/)
 
 - 📫 Encuéntrame en **juanfel2024@gmail.com**
 
